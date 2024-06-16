@@ -1,0 +1,3 @@
+The ViewProduct Project is a simple ASP.NET web application that allows users to view and edit product details from a database. This project demonstrates basic database operations, such as retrieving and updating product information.
+
+The purpose of this project is to create a web interface for viewing and editing products stored in a SQL Server database. It allows users to select a product, view its details, make changes, and save the updated information back to the database. This project is a useful exercise in understanding how to connect a web application to a database, retrieve data, and handle user inputs for updating records.
